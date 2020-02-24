@@ -1,0 +1,918 @@
+2020-01-28T13:54:35+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 52d50c434557dab888813851b2fe9ac6
+            [Date] => 28 Jan 2020 @ 13:54
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.6492
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => HNeRm4LUmoPHy5wOX3pr5khU5KGmr1NY0kgvS4SmdZc=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 52d50c434557dab888813851b2fe9ac6
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 13:54:33 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:01:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b8e284c57be1c9ba3dad7299d76d246f
+            [Date] => 28 Jan 2020 @ 14:01
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.63841
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => e9S2jn2/IyVibwoo1gNkRDsjzIr7/hXi+6465Yq30uU=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => b8e284c57be1c9ba3dad7299d76d246f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:01:14 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:06:06+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ac7af1e685ab116bf0dd368ba9dd5620
+            [Date] => 28 Jan 2020 @ 14:06
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.6556
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => uZDXYdOL5VVLFs+fFk8SZxMOqdAzI9RIvPIl4gZCZ3o=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => ac7af1e685ab116bf0dd368ba9dd5620
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:06:04 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:07:58+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 729553031e9476fb00b925a16a6056e2
+            [Date] => 28 Jan 2020 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.6407
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => JQfHTJ2yQe3p3b05TwSm0jrtnBR2cgyevdacLpC11nI=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 729553031e9476fb00b925a16a6056e2
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:07:57 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:07:59+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1ead6f32c58e353df231d8f31f239e3b
+            [Date] => 28 Jan 2020 @ 14:07
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.62141
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => w4t30d5KagtZhRSfKTyoJIclJNf/GiJY24OU/DFabuI=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 1ead6f32c58e353df231d8f31f239e3b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:07:57 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:10:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c2acf5f48678baaa787dbbd1c8c32666
+            [Date] => 28 Jan 2020 @ 14:10
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.65724
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => wREiMi8BA/k3rINZWczeaO8UXTPxtnbGlhu6iX5xu/8=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c2acf5f48678baaa787dbbd1c8c32666
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:10:55 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:11:24+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 23be123ccc3564f1fc802ca72b359de3
+            [Date] => 28 Jan 2020 @ 14:11
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.65312
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => KqdB9G70aNfpjVfQs/NWD2b69kKgrEEKHpCiGzqoqvI=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 23be123ccc3564f1fc802ca72b359de3
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:11:23 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:12:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e82e5ba1f2a6cdd85598397dce447569
+            [Date] => 28 Jan 2020 @ 14:12
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.65356
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Aw9B3q/gDBagAejUdSrXJhZei66kuYpT7MJ6fIswDH4=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => e82e5ba1f2a6cdd85598397dce447569
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:12:50 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:12:52+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => e82e5ba1f2a6cdd85598397dce447569
+            [Date] => 28 Jan 2020 @ 14:12
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.60529
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => Cs4k9TdgmqtdnL1mp6ujpvrDlARvNe/KV9bGhxpNFb8=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => e82e5ba1f2a6cdd85598397dce447569
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:12:50 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:24:50+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => a6793eba6ee126025d5d830f10cfa175
+            [Date] => 28 Jan 2020 @ 14:24
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.64223
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => LxdKQaqE4eNWM3ktgLgDJJBneg9OmxwNVVn82/OHSe0=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => a6793eba6ee126025d5d830f10cfa175
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:24:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:24:51+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c0db05c206d840c8f8a1e862e0ffff28
+            [Date] => 28 Jan 2020 @ 14:24
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.62506
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 2MweD7l8zJtHLSVYlVQYWvt6VQip5QGsSsVY44gy/xk=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => c0db05c206d840c8f8a1e862e0ffff28
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:24:49 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:25:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 730c1791409d48f62c7bf0a894c908fe
+            [Date] => 28 Jan 2020 @ 14:25
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.65136
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => p1GsRnEKJZoXrN20vURGik9KONAGMLfCNpRA+eb9Ars=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 730c1791409d48f62c7bf0a894c908fe
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:25:15 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:25:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 20fae452c92268e02bb11e7ad48495dc
+            [Date] => 28 Jan 2020 @ 14:25
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.60238
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 8GZtu8RvtAChflLA4ARQdxK0bFznaOoNwQAh4xrsHx4=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 20fae452c92268e02bb11e7ad48495dc
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:25:16 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:26:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 6dcc0d9c23acbc86dfd1e0fe7aae502e
+            [Date] => 28 Jan 2020 @ 14:26
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.66192
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => U/XmGTTgLWXtrUP+r/G30/YDZ1cXvP2VrCDbaIVPd/Q=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 6dcc0d9c23acbc86dfd1e0fe7aae502e
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:26:17 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:26:19+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 39efa725450b79f0c2ac92ad714b7113
+            [Date] => 28 Jan 2020 @ 14:26
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.64326
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => YVwPKT3+1RiamsfdzYiC6v+pqpIjqGUkN/vrPMggNw0=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 39efa725450b79f0c2ac92ad714b7113
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:26:18 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:30:15+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 6bc67ebdfce692d78b7e370d3f501316
+            [Date] => 28 Jan 2020 @ 14:30
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.70976
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => bWgWKD2nW6aJam6Faet4NKniXL2cPkBqPS3Su0T3OAE=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 6bc67ebdfce692d78b7e370d3f501316
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:30:14 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:30:16+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f331bd5f324250f111fd82938571327f
+            [Date] => 28 Jan 2020 @ 14:30
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.71777
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => ZoGdoviuwKXoKkt2mYL9CGYMj9GM3LmegzOf0rIeSXo=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => f331bd5f324250f111fd82938571327f
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:30:14 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2020-01-28T14:31:57+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 7e63abf38c29719787a8b989330ed3d4
+            [Date] => 28 Jan 2020 @ 14:31
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 0.65508
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.deleted
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => deleted
+                            [X-WC-Webhook-Signature] => 3rmx+6LYeTaKJt2rHJe4TVcEtJANBup2VWk6PmfOVks=
+                            [X-WC-Webhook-ID] => 3
+                            [X-WC-Webhook-Delivery-ID] => 7e63abf38c29719787a8b989330ed3d4
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 28 Jan 2020 14:31:56 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+

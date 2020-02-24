@@ -1,0 +1,51 @@
+2020-02-24T00:48:41+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => b41ef4d356c5632190be519bf6572d64
+            [Date] => 24 Fév 2020 @ 0:48
+            [URL] => https://api.printful.com/hook/woocommerce?store=1947307
+            [Duration] => 1.03403
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/3.8.1 Hookshot (WordPress/5.2.5)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://welcometothenoom.com/
+                            [X-WC-Webhook-Topic] => product.updated
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => uGmyLv+yt+24uY7DyP9XAF+9bow5UzN8Akmv6DnxGpA=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => b41ef4d356c5632190be519bf6572d64
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Mon, 24 Feb 2020 00:48:41 GMT
+                                    [content-type] => text/html; charset=UTF-8
+                                    [server] => nginx
+                                    [vary] => Accept-Encoding
+                                    [content-encoding] => gzip
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
